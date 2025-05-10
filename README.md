@@ -34,8 +34,8 @@ jupyter notebook Untitled8.ipynb
 - Make sure all required Python packages are installed in your environment.
 
 contributors:
-Sairam S
-Sabarish RS
-Rohit Kumar G
-Niranjan shankar
-Reshvnth
+Sairam S, 
+Sabarish RS, 
+Rohit Kumar G, 
+Niranjan shankar, 
+Reshvnth 
