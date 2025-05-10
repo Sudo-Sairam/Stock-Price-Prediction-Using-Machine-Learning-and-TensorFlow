@@ -32,3 +32,10 @@ jupyter notebook Untitled8.ipynb
 
 - If Yahoo Finance blocks requests due to rate limits, wait a while and rerun.
 - Make sure all required Python packages are installed in your environment.
+
+contributors:
+Sairam S
+Sabarish RS
+Rohit Kumar G
+Niranjan shankar
+Reshvnth
